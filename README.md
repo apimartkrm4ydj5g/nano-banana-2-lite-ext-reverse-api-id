@@ -1,10 +1,27 @@
-# Nano Banana 2 Lite Ext — rekayasa balik route (Indonesia)
+# Nano Banana 2 Lite API (`gemini-3.1-flash-lite-image-ext`)
 
-> **1K $0.0125** · model ID `gemini-3.1-flash-lite-image-ext` · **rekayasa balik/reverse-engineered** route.
+<!-- conv-kit:v1 -->
 
-**[Lihat harga](https://go.apimart.ai/k-97c2ee)** · **[Dapatkan kunci API](https://go.apimart.ai/k-abbff5)**
+<p align="center">
+  <img src="assets/badges/price.svg" alt="observed unit price"> <img src="assets/badges/billing.svg" alt="billing model"> <img src="assets/badges/compat.svg" alt="OpenAI-compatible endpoint">
+</p>
 
-nano-banana-2-lite-ext-reverse-api-id adalah rute **rekayasa balik** untuk Nano Banana 2 Lite Ext: ID panggilan `gemini-3.1-flash-lite-image-ext`, berjalan paralel dengan rute resmi (`nano-banana-2-lite (gemini-3.1-flash-lite-image)`) dengan harga satuan lebih rendah.
+<p align="center">
+  <img src="assets/01-product-hero-perfume.jpg" width="820" alt="Nano Banana 2 Lite (gemini-3.1-flash-lite-image-ext) output generated through APIMart">
+</p>
+
+> **from $0.0125 per image** — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+
+**[Get an API key](https://go.apimart.ai/k-abbff5)** · **[Live pricing](https://go.apimart.ai/k-0d99b0)** · **[Model page](https://go.apimart.ai/k-1c010f)** · [⚡ 60-second quickstart](#quickstart)
+
+**Why teams call Nano Banana 2 Lite (`gemini-3.1-flash-lite-image-ext`) through APIMart**
+
+- **One key, entire catalog.** The same `https://api.apimart.ai/v1` base URL and `Authorization` header reach Nano Banana 2 Lite (`gemini-3.1-flash-lite-image-ext`) and 300+ other image, video and language models — switch the `model` field, not your client.
+- **$1 minimum, pay as you go.** No subscription and no prepaid plan to size up front: top up from $1 and spend it on calls. There is no free quota to burn through first, so the price in this table is the price you pay.
+- **The charge comes back in the response.** Every completed task reports the amount billed (`cost` / `credits_cost`), so a spend number is read per call instead of guessed at month end.
+- **Async by design.** Submit, take the `task_id`, poll `GET /v1/tasks/{id}` — batching and retries are ordinary queue work, not a bespoke integration.
+
+<!-- /conv-kit:v1 -->
 
 ## Pricing (snapshot 2026-09-28)
 
